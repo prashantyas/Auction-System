@@ -75,10 +75,6 @@ We welcome contributions to Bid Bazaar! To contribute, follow these steps:
 3. Commit your changes and push to the branch.
 4. Submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - Django Project for the excellent documentation and resources.
