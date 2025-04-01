@@ -43,29 +43,6 @@ Welcome to Bid Bazaar, an innovative online auction platform that brings the exc
     python manage.py runserver
     ```
 
-## Output Screens
-
- 1. Home Page
- ![Home Page](media/outputscreens/HomePage.png)
- 2. Login Page
- ![Login Page](media/outputscreens/login.png)
- 3. OTP Authentication
- ![OTP Page](media/outputscreens/OTP_Authentication.png)
- 4. Listing
- ![Listing](media/outputscreens/ItemListing.png)
- 5. User Profile
- ![Profile Page](media/outputscreens/UserProfile.png)
-
-## Admin Dashboard
-
-1. Manage Listings
-![Listings Dashboard](media/outputscreens/managelisting.png)
-2. Reports
-![Reports Dashboard](media/outputscreens/reports.png)
-
-### Admin Credentials 
-username - admin, password - admin
-
 ## Future Enhancements
 
 While Bid Bazaar offers a robust auction platform with a range of features, there are several areas where we plan to implement enhancements in the future to further improve the user experience and expand the functionality. Some of the planned enhancements include:
